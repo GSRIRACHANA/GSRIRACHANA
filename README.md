@@ -8,6 +8,7 @@ Data analytics: pandas, NumPy, Matplotlib,seaborn,plotly
 Machine Learning: Regression, Decision Trees, Random Forest, KNN, SVM
 Visualizations: Power BI,Tableau
 Feature Engineering and Model Evaluation
+IDE Tool : Jupyter Notebook , VS Code 
 
 Best regards,
 Srirachana
